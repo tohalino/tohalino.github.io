@@ -1,4 +1,6 @@
 @import url("font-awesome.min.css");
+@import url("fontawesome.min.css");
+
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 /*
@@ -2626,5 +2628,28 @@
 	}
 
 
+/* Iconos Tohalino Alterno */
+
+/* Icons */
+
+	.icon2 {
+		text-decoration: none;
+	}
+
+		.icon2:before {
+			display: inline-block;
+			font-family: FontAwesome;
+			font-size: 9.25em;
+			text-decoration: none;
+			font-style: normal;
+			font-weight: normal;
+			line-height: 1;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+
+		.icon2 > .label {
+			display: none;
+		}
 
 
