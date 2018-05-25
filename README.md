@@ -28,6 +28,7 @@ This will create the dillinger image and pull in the necessary dependencies. Be 
 
 Los textos de la parte superior, es para fines educativos e informativos para aprender a como darle un formato a los archivos Readme de Github
 
+# Proyecto Web
 *Proyectos Diseño web - Etiqueta*
 _Hechos con mi autoria y siguiendo ciertos tips_
 
@@ -37,3 +38,8 @@ __Este texto también estará en negritas__
 *Incluso **puedes** combinarlos*
 
 ![GitHub Logo](/images/design.jpg)
+
+Una lista de emojis completa :satisfied: (~~o creo que no lo esta~~)
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+Fuente: [GitHub](https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md)
