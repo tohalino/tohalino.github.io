@@ -39,5 +39,5 @@ __Este texto también estará en negritas__
 
 ![GitHub Logo](/images/design.jpg)
 
-Una lista de emojis completa (~~o creo que no lo esta~~)
+Una lista de emojis completa :satisfied: (~~o creo que no lo esta~~)
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
