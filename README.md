@@ -27,3 +27,13 @@ This will create the dillinger image and pull in the necessary dependencies. Be 
 > or formatting instructions.
 
 Los textos de la parte superior, es para fines educativos e informativos para aprender a como darle un formato a los archivos Readme de Github
+
+*Proyectos Diseño web - Etiqueta*
+_Hechos con mi autoria y siguiendo ciertos tips_
+
+**Este texto estará en negritas**
+__Este texto también estará en negritas__
+
+*Incluso **puedes** combinarlos*
+
+![GitHub Logo](/images/design.jpg)
