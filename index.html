@@ -387,6 +387,22 @@
 								<h2>Contacto</h2>
 							</header>
 
+							<div id="map"></div>
+							    <script>
+							      function initMap() {
+							        var uluru = {lat: -25.363, lng: 131.044};
+							        var map = new google.maps.Map(document.getElementById('map'), {
+							          zoom: 4,
+							          center: uluru
+							        });
+							        var marker = new google.maps.Marker({
+							          position: uluru,
+							          map: map
+							        });
+							      }
+							    </script>
+							    
+
 							<p>Elementum sem parturient nulla quam placerat viverra
 							mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia
 							donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc
@@ -426,6 +442,13 @@
               new WOW().init();
             </script>
 
+
+
+            <script async defer
+							    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7AGIPFpyqWeEveEtJpl71z3asT-3oC74&callback=initMap">
+							    </script>
+
+							    
 			<script src="assets/js/modernizr.custom.js"></script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
