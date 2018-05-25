@@ -41,3 +41,5 @@ __Este texto también estará en negritas__
 
 Una lista de emojis completa :satisfied: (~~o creo que no lo esta~~)
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+Fuente: [GitHub](https://github.com/ricval/Documentacion/blob/master/Guias/GitHub/mastering-markdown.md)
