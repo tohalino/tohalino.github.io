@@ -28,7 +28,7 @@ This will create the dillinger image and pull in the necessary dependencies. Be 
 
 Los textos de la parte superior, es para fines educativos e informativos para aprender a como darle un formato a los archivos Readme de Github
 
-# Este es una etiqueta
+# Proyecto Web
 *Proyectos Diseño web - Etiqueta*
 _Hechos con mi autoria y siguiendo ciertos tips_
 
