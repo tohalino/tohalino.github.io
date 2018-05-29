@@ -1,5 +1,5 @@
 # Alexis Tohalino
-Portafolio personal de diseño [pley.github.io]
+Portafolio personal de diseño
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
